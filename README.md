@@ -4,10 +4,12 @@
 
 
 🎓 Graduated a D.Eng @KMITL where I studied the 🎯 doctoral thesis, namely "_Generation Expansion Planning Under
-Extended Conditions Using Simheuristic Approach_". ⚡ Working currently on the Electricity Generating Authority of Thailand (EGAT).
-🖥️ Self-taught in AI technology.
-
+Extended Conditions Using Simheuristic Approach_".
 👯 Get married with `Miss. Apiwattanaree Sangkum`.
+⚡ Working currently on the Electricity Generating Authority of Thailand (EGAT).
+🖥️ Self-taught in AI technology relating to deep learning, reinforcement learning in the Energy Industry.
+
+
 
 Apart from tech-coding, I am also range from guitar hero, 😉 RTS gamer, 😄 Cat-Lover. 
 👋 Nice to meet you all. 🔭 Travel below to know more... and 💬 Ask me about something ...

@@ -15,9 +15,7 @@
 repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-# my-profile
-
-
+## AI
 ![https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io/badge/AI-Tensorflow-red)
 
 

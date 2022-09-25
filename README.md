@@ -5,6 +5,7 @@
 
 🎓 Graduated a D.Eng @KMITL where I studied the 🎯 doctoral thesis, namely "_Generation Expansion Planning Under
 Extended Conditions Using Simheuristic Approach_".
+
 👯 Get married with `Miss. Apiwattanaree Sangkum`.
 ⚡ Working currently on the Electricity Generating Authority of Thailand (EGAT).
 🖥️ Self-taught in AI technology relating to deep learning, reinforcement learning in the Energy Industry.

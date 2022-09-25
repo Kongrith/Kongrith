@@ -2,11 +2,13 @@
 
 **I'm Kongrith Komasatid**. You can call me ✨ _Cartoon_ ✨. Let me introduce my personality as below;
 
+
 🎓 Graduated a D.Eng @KMITL where I studied the doctoral thesis, namely "". 🖥️ Self-taught in AI technology. ⚡ Working currently on the Electricity Generating Authority of Thailand (EGAT).
 👯 Get married with `Miss. Apiwattanaree Sangkum`. 🎯 Apart from tech-coding, I am also range from guitar hero, 😉 RTS gamer, 😄 Cat-Lover. 
 
 
 👋 Nice to meet you all. 🔭 Travel below to know more... and 💬 Ask me about something ...
+
 
 #### Coding Achievement:
 - 🥈 Silver honor of Super AI engineer Season 1 @AIAT.

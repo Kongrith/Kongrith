@@ -1,8 +1,9 @@
 ### Hi there 👋👋
 
 
-**I'm Kongrith Komasatid**. My nickname is ✨ _Cartoonl_ ✨.
+**I'm Kongrith Komasatid**. My nickname is ✨ _Cartoon_ ✨.
 
+- ⚡ I’m currently working on the Electricity Generating Authority of Thailand (EGAT)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

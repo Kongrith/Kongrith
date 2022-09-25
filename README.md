@@ -1,6 +1,6 @@
 ### Hi there 👋👋
 
-**I'm Kongrith Komasatid**. You can call me ✨ _Cartoon_ ✨. Let me introduce my personality:
+**I'm Kongrith Komasatid**. You can call me ✨ _Cartoon_ ✨. Let me introduce my personality as below;
 
 - ⚡ I’m currently working on the Electricity Generating Authority of Thailand (EGAT)
 - 🔭 I’m currently working on ...

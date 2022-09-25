@@ -15,7 +15,7 @@
 - 🥈 2nd Runner-up of TMO season 4 @EGAT.
 
 #### Hackathon Awards:
--🥈 Silver honor of Super AI engineer Season 1 @AIAT
+- 🥈 Silver honor of Super AI engineer Season 1 @AIAT
 
 
 

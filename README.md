@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# my-profile
+
+
+![https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io/badge/AI-Tensorflow-red)
+
+
+
+
+![Cartoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongrith)

@@ -3,7 +3,9 @@
 **I'm Kongrith Komasatid**. You can call me ✨ _Cartoon_ ✨. Let me introduce my personality as below;
 
 
-🎓 Graduated a D.Eng @KMITL where I studied the doctoral thesis, namely "". 🖥️ Self-taught in AI technology. ⚡ Working currently on the Electricity Generating Authority of Thailand (EGAT).
+🎓 Graduated a D.Eng @KMITL where I studied the doctoral thesis, namely "GENERATION EXPANSION PLANNING UNDER
+EXTENDED CONDITIONS USING SIMHEURISTICS APPROACH". 🖥️ Self-taught in AI technology.
+⚡ Working currently on the Electricity Generating Authority of Thailand (EGAT).
 👯 Get married with `Miss. Apiwattanaree Sangkum`. 🎯 Apart from tech-coding, I am also range from guitar hero, 😉 RTS gamer, 😄 Cat-Lover. 
 
 

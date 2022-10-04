@@ -13,7 +13,7 @@ Extended Conditions Using Simheuristic Approach_".
 🖥️ Self-taught in AI technology relating to deep learning, reinforcement learning in the Energy Industry.
 
 Apart from tech-coding, I am also range from guitar hero, 😉 RTS gamer, 😄 Cat-Lover. 
-👋 Nice to meet you all. 🔭 Travel below to know more... and 💬 Ask me about something ...
+👋 Nice to meet you all. 🔭 Travel below to know more... and 💬 [Ask me about something](https://kongrith.github.io/)...
 
 
 #### Coding Achievement:
@@ -32,4 +32,3 @@ Apart from tech-coding, I am also range from guitar hero, 😉 RTS gamer, 😄 C
 
 
 ![Cartoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongrith)
-[MY PORTFOLIO PAGE](https://kongrith.github.io/)

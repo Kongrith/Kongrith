@@ -2,10 +2,10 @@
 
 **I'm Kongrith Komasatid**. You can call me ✨ _Cartoon_ ✨. Let me introduce my personality as below;
 
-🎓 Graduated a M.Eng @Chula where I studied the 🎯 Master thesis, namely "_Long-term Thailand electrical energy consumption forecasting with an artificial neural network approach_".
+🎓 Graduated a M.Eng @Chula where I studied the 🎯 Master thesis, namely "_Long-term Thailand Electrical Energy Consumption Forecasting with an Artificial Neural Network Approach_", 2012.
 
 🎓 Graduated a D.Eng @KMITL where I studied the 🎯 doctoral thesis, namely "_Generation Expansion Planning Under
-Extended Conditions Using Simheuristic Approach_".
+Extended Conditions Using Simheuristic Approach_", 2018.
 
 👯 Get married with `Miss. Apiwattanaree Sangkum`.
 

@@ -19,7 +19,7 @@ Apart from tech-coding, I am also range from guitar hero, 😉 RTS gamer, 😄 C
 
 #### Coding Achievement:
 - 🥈 Silver honor of Super AI engineer Season 1 @AIAT.
-- 🥈 2nd Runner-up of TMO season 4 @EGAT.
+
 
 #### Hackathon Awards:
 - 🥈 Silver honor of Super AI engineer Season 1 @AIAT

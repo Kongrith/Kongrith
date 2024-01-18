@@ -9,7 +9,7 @@ Extended Conditions Using Simheuristic Approach_", 2018.
 
 👯 Get married with `Miss. Apiwattanaree Sangkum`.
 
-⚡ Working currently on the Electricity Generating Authority of Thailand (EGAT).
+⚡ Working currently on Turnkey Communcation Service (TKC).
 
 🖥️ Self-taught in AI technology relating to deep learning, reinforcement learning in the Energy Industry.
 

@@ -19,10 +19,7 @@ Apart from tech-coding, I am also range from guitar hero, 😉 RTS gamer, 😄 C
 
 #### Coding Achievement:
 - 🥈 Silver honor of Super AI engineer Season 1 @AIAT.
-
-
-#### Hackathon Awards:
-- 🥈 Silver honor of Super AI engineer Season 1 @AIAT
+- Cadet @ 42 Bangkok.
 
 
 

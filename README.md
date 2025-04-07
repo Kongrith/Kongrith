@@ -2,6 +2,8 @@
 
 **I'm Kongrith Komasatid**. You can call me ✨ _Cartoon_ ✨. Let me introduce my personality as below;
 
+🎓 under studying Doctor of Philosophy (Artificial Intelligence for Business Analytics)
+
 🎓 Graduated a M.Eng @Chula where I studied the 🎯 Master thesis, namely "_Long-term Thailand Electrical Energy Consumption Forecasting with an Artificial Neural Network Approach_", 2012.
 
 🎓 Graduated a D.Eng @KMITL where I studied the 🎯 doctoral thesis, namely "_Generation Expansion Planning Under
@@ -9,7 +11,7 @@ Extended Conditions Using Simheuristic Approach_", 2018.
 
 👯 Get married with `Miss. Apiwattanaree Sangkum`.
 
-⚡ Working currently as R&D Assistant Manager at Turnkey Communcation Service (TKC).
+⚡ Working currently as Project Manager at Plasmax.
 
 🖥️ Self-taught in AI technology relating to deep learning, reinforcement learning in the Energy Industry.
 
